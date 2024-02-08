@@ -1,5 +1,7 @@
 # My-First-Pygame
 
+## Background
+
 - This Python code uses the Pygame library to create a game called "SlapFace".
 - The game features a player-controlled hand character moving within an 800x600 pixel game window.
 - The objective is to slap a character named "Zijet" while avoiding another character named "Teacher".
